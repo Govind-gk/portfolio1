@@ -1,0 +1,48 @@
+.pivot_menu .pivot_button, .pivot_menu .pivot_title{
+    color: white;
+}
+
+.pivot_menu{
+    width: 100vw;
+    background:red;
+    z-index:10;
+}
+.cover{
+    background: url("./bg1.jpeg");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.bottom_left{
+    position: relative;
+    top: 100px;
+    left:8vh;
+    color: white;
+}
+.vert_space{
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}
+.content_padding{
+    padding:25px;
+
+}
+.skill_color{
+    background: crimson;
+    color:white;
+}
+
+.footer{
+    width: 100vw;
+    background:crimson;
+}
+.contact_options{
+    font-size: 30px;
+    color: white;
+    padding: 10px 40px;
+}
+.social_icon{
+    width: 60px;
+    height:60px;
+}
